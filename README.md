@@ -1,1 +1,1 @@
-DataPredict’s and MatrixL’s libraries terms and conditions apply due to source code containing these libraries. You can view it [here](https://aqwamcreates.github.io/DataPredict/TermsAndConditions.html).
+DataPredict’s and MatrixL’s libraries terms and conditions apply due to source code containing these libraries. You can view it [here](https://aqwamcreates.github.io/DataPredict/TermsAndConditions.html) and [here](https://aqwamcreates.github.io/MatrixL/TermsAndConditions.html).
